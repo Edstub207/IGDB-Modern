@@ -1,0 +1,550 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Let's Review\n"
+"POT-Creation-Date: 2016-06-08 18:13-0000\n"
+"PO-Revision-Date: 2016-06-08 18:13-0000\n"
+"Last-Translator: \n"
+"Language-Team: Cubell Themes\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.4\n"
+"X-Poedit-Basepath: ../\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;gettext;gettext_noop;_n:1,2;"
+"esc_html__\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/class-lets-review-admin.php:67
+#: admin/class-lets-review-metabox.php:444
+#: admin/class-lets-review-metabox.php:493
+#: admin/class-lets-review-metabox.php:522
+#: admin/class-lets-review-metabox.php:705
+#: frontend/class-lets-review-frontend.php:72 inc/class-lets-review.php:578
+msgid "Title"
+msgstr ""
+
+#: admin/class-lets-review-admin.php:68
+#: admin/class-lets-review-metabox.php:448 inc/class-lets-review.php:582
+msgid "Score"
+msgstr ""
+
+#: admin/class-lets-review-admin.php:69
+#: admin/class-lets-review-metabox.php:475
+#: admin/class-lets-review-metabox.php:505
+#: admin/class-lets-review-metabox.php:534
+#: admin/class-lets-review-metabox.php:720 inc/class-lets-review.php:596
+msgid "Add"
+msgstr ""
+
+#: admin/class-lets-review-admin.php:70
+msgid "Insert"
+msgstr ""
+
+#: admin/class-lets-review-admin.php:71
+#: admin/class-lets-review-metabox.php:406
+#: admin/class-lets-review-metabox.php:558 inc/class-lets-review.php:486
+msgid "Select Image"
+msgstr ""
+
+#: admin/class-lets-review-admin.php:72
+msgid "Select or Upload Images"
+msgstr ""
+
+#: admin/class-lets-review-admin.php:73
+#: admin/class-lets-review-metabox.php:709
+msgid "Affiliate URL"
+msgstr ""
+
+#: admin/class-lets-review-metabox.php:62
+#: admin/class-lets-review-metabox.php:75
+msgid "Let's Review Options"
+msgstr ""
+
+#: admin/class-lets-review-metabox.php:241
+msgid "Enable Review"
+msgstr ""
+
+#: admin/class-lets-review-metabox.php:247
+msgid "General"
+msgstr ""
+
+#: admin/class-lets-review-metabox.php:248
+msgid "Fields"
+msgstr ""
+
+#: admin/class-lets-review-metabox.php:249 inc/class-lets-review.php:346
+msgid "Design"
+msgstr ""
+
+#: admin/class-lets-review-metabox.php:250
+msgid "Media"
+msgstr ""
+
+#: admin/class-lets-review-metabox.php:251
+msgid "Affiliate"
+msgstr ""
+
+#: admin/class-lets-review-metabox.php:256
+msgid "Review Main Title"
+msgstr ""
+
+#: admin/class-lets-review-metabox.php:259
+msgid "Optional title to show at the top of the review box"
+msgstr ""
+
+#: admin/class-lets-review-metabox.php:263
+msgid "Review Type"
+msgstr ""
+
+#: admin/class-lets-review-metabox.php:267
+msgid "Editor Review + Visitor Ratings"
+msgstr ""
+
+#: admin/class-lets-review-metabox.php:268
+msgid "Editor Review"
+msgstr ""
+
+#: admin/class-lets-review-metabox.php:269
+msgid "Visitor Reviews"
+msgstr ""
+
+#: admin/class-lets-review-metabox.php:274
+msgid "Review Location"
+msgstr ""
+
+#: admin/class-lets-review-metabox.php:280 inc/class-lets-review.php:336
+msgid "Bottom"
+msgstr ""
+
+#: admin/class-lets-review-metabox.php:288 inc/class-lets-review.php:337
+msgid "Top"
+msgstr ""
+
+#: admin/class-lets-review-metabox.php:296 inc/class-lets-review.php:338
+msgid "Top + Bottom"
+msgstr ""
+
+#: admin/class-lets-review-metabox.php:304
+msgid "Top Half-Width"
+msgstr ""
+
+#: admin/class-lets-review-metabox.php:313 inc/class-lets-review.php:339
+msgid "Shortcode"
+msgstr ""
+
+#: admin/class-lets-review-metabox.php:321
+msgid "Shortcode Instructions"
+msgstr ""
+
+#: admin/class-lets-review-metabox.php:322
+msgid ""
+"Put the following shortcode somewhere in the post content area: [letsreview]."
+msgstr ""
+
+#: admin/class-lets-review-metabox.php:323
+msgid ""
+"If you want to add a post review from a different post, you can use "
+"[letsreview postid=\"123\"] and replace the 123 with the id of that post."
+msgstr ""
+
+#: admin/class-lets-review-metabox.php:324
+msgid "For more info, please check the documentation -> Shortcode section."
+msgstr ""
+
+#: admin/class-lets-review-metabox.php:331
+msgid "Review Style"
+msgstr ""
+
+#: admin/class-lets-review-metabox.php:336 inc/class-lets-review.php:290
+msgid "Percent"
+msgstr ""
+
+#: admin/class-lets-review-metabox.php:344 inc/class-lets-review.php:291
+msgid "Points"
+msgstr ""
+
+#: admin/class-lets-review-metabox.php:353 inc/class-lets-review.php:292
+msgid "Stars"
+msgstr ""
+
+#: admin/class-lets-review-metabox.php:361 inc/class-lets-review.php:293
+msgid "Custom Icon"
+msgstr ""
+
+#: admin/class-lets-review-metabox.php:369
+#: admin/class-lets-review-metabox.php:388 inc/class-lets-review.php:294
+#: inc/class-lets-review.php:468
+msgid "Custom Image"
+msgstr ""
+
+#: admin/class-lets-review-metabox.php:378 inc/class-lets-review.php:303
+msgid "Custom Icon Code"
+msgstr ""
+
+#: admin/class-lets-review-metabox.php:380
+msgid ""
+"Enter the HTML icon code. A list of available icons can be found at https://"
+"fortawesome.github.io/Font-Awesome/icons/"
+msgstr ""
+
+#: admin/class-lets-review-metabox.php:389 inc/class-lets-review.php:469
+msgid ""
+"Upload/Set an image of a single object. It will output 5 times "
+"automatically. Recommended size is 80px x 80px."
+msgstr ""
+
+#: admin/class-lets-review-metabox.php:412
+msgid "Final Score Subtitle"
+msgstr ""
+
+#: admin/class-lets-review-metabox.php:415
+msgid "Optional text under final score"
+msgstr ""
+
+#: admin/class-lets-review-metabox.php:420
+msgid "Conclusion"
+msgstr ""
+
+#: admin/class-lets-review-metabox.php:422
+msgid "Conclusion heading"
+msgstr ""
+
+#: admin/class-lets-review-metabox.php:427
+msgid "Conclusion content"
+msgstr ""
+
+#: admin/class-lets-review-metabox.php:436 inc/class-lets-review.php:408
+msgid "Criterias"
+msgstr ""
+
+#: admin/class-lets-review-metabox.php:437
+msgid "Add as many criterias as you like. You can drag & drop the items too."
+msgstr ""
+
+#: admin/class-lets-review-metabox.php:463
+msgid "Final Score"
+msgstr ""
+
+#: admin/class-lets-review-metabox.php:480
+msgid "Positives"
+msgstr ""
+
+#: admin/class-lets-review-metabox.php:482
+msgid "Optional positive heading"
+msgstr ""
+
+#: admin/class-lets-review-metabox.php:485
+msgid ""
+"Add as many positive points as you like. You can drag & drop the items too."
+msgstr ""
+
+#: admin/class-lets-review-metabox.php:510
+msgid "Negatives"
+msgstr ""
+
+#: admin/class-lets-review-metabox.php:512
+msgid "Optional negative heading"
+msgstr ""
+
+#: admin/class-lets-review-metabox.php:515
+msgid ""
+"Add as many negative points as you like. You can drag & drop the items too."
+msgstr ""
+
+#: admin/class-lets-review-metabox.php:541
+msgid "Main Image"
+msgstr ""
+
+#: admin/class-lets-review-metabox.php:543
+msgid "Add an image thumbnail to appear in the review area"
+msgstr ""
+
+#: admin/class-lets-review-metabox.php:562
+msgid "Image Gallery"
+msgstr ""
+
+#: admin/class-lets-review-metabox.php:565
+msgid "Optional gallery heading"
+msgstr ""
+
+#: admin/class-lets-review-metabox.php:570
+msgid "Add a gallery of images that open in a lightbox slideshow"
+msgstr ""
+
+#: admin/class-lets-review-metabox.php:589
+msgid "Add/Edit"
+msgstr ""
+
+#: admin/class-lets-review-metabox.php:594
+msgid "Design Selection"
+msgstr ""
+
+#: admin/class-lets-review-metabox.php:600 inc/class-lets-review.php:354
+msgid "Minimalist"
+msgstr ""
+
+#: admin/class-lets-review-metabox.php:608 inc/class-lets-review.php:355
+#: inc/lets-review-widget.php:366
+msgid "Bold"
+msgstr ""
+
+#: admin/class-lets-review-metabox.php:617 inc/class-lets-review.php:356
+msgid "Modern"
+msgstr ""
+
+#: admin/class-lets-review-metabox.php:624 inc/class-lets-review.php:380
+msgid "Skin Style"
+msgstr ""
+
+#: admin/class-lets-review-metabox.php:630 inc/class-lets-review.php:388
+msgid "Light"
+msgstr ""
+
+#: admin/class-lets-review-metabox.php:638 inc/class-lets-review.php:389
+msgid "Dark"
+msgstr ""
+
+#: admin/class-lets-review-metabox.php:647
+msgid "Animation Type"
+msgstr ""
+
+#: admin/class-lets-review-metabox.php:653 inc/class-lets-review.php:371
+msgid "Incremental"
+msgstr ""
+
+#: admin/class-lets-review-metabox.php:661 inc/class-lets-review.php:372
+msgid "Fade In"
+msgstr ""
+
+#: admin/class-lets-review-metabox.php:670 inc/class-lets-review.php:373
+msgid "None"
+msgstr ""
+
+#: admin/class-lets-review-metabox.php:681 inc/class-lets-review.php:396
+msgid "Accent Color"
+msgstr ""
+
+#: admin/class-lets-review-metabox.php:692
+msgid "Affiliate Title"
+msgstr ""
+
+#: admin/class-lets-review-metabox.php:695
+msgid "Optional title to show above affiliate buttons"
+msgstr ""
+
+#: admin/class-lets-review-metabox.php:697
+msgid "Affiliate Buttons"
+msgstr ""
+
+#: admin/class-lets-review-metabox.php:698
+msgid ""
+"Add as many affiliate/buy links you like. You can drag & drop the items too."
+msgstr ""
+
+#: admin/pages/defaults.php:19 admin/pages/extras.php:19
+#: admin/pages/typography.php:19
+msgid "Save Changes"
+msgstr ""
+
+#: frontend/class-lets-review-frontend.php:222
+msgid "Reader Rating"
+msgstr ""
+
+#: frontend/class-lets-review-frontend.php:223
+msgid "Leave Rating"
+msgstr ""
+
+#: frontend/class-lets-review-frontend.php:225
+#: frontend/class-lets-review-frontend.php:282
+msgid "Vote"
+msgid_plural "Votes"
+msgstr[0] ""
+msgstr[1] ""
+
+#: frontend/class-lets-review-frontend.php:775
+msgid "Read full review"
+msgstr ""
+
+#: frontend/class-lets-review-frontend.php:853
+msgid "You have already rated"
+msgstr ""
+
+#: inc/class-lets-review.php:119
+msgid "Let's review"
+msgstr ""
+
+#: inc/class-lets-review.php:120 inc/class-lets-review.php:275
+msgid "Default Options"
+msgstr ""
+
+#: inc/class-lets-review.php:121
+msgid "Typography"
+msgstr ""
+
+#: inc/class-lets-review.php:122
+msgid "Extras"
+msgstr ""
+
+#: inc/class-lets-review.php:123
+msgid "Documentation"
+msgstr ""
+
+#: inc/class-lets-review.php:162
+msgid "Extra Options"
+msgstr ""
+
+#: inc/class-lets-review.php:169
+msgid "Load  Let's Review Lightbox"
+msgstr ""
+
+#: inc/class-lets-review.php:181
+msgid "Load FontAwesome files"
+msgstr ""
+
+#: inc/class-lets-review.php:193
+msgid "Use Minified Javascript"
+msgstr ""
+
+#: inc/class-lets-review.php:205
+msgid "Show full review outside post"
+msgstr ""
+
+#: inc/class-lets-review.php:211
+msgid ""
+"If your theme shows all the post content on the homepage, categories, tags, "
+"etc, you may not want to output the full review box."
+msgstr ""
+
+#: inc/class-lets-review.php:222
+msgid "Typography Options"
+msgstr ""
+
+#: inc/class-lets-review.php:229
+msgid "Font: Headings"
+msgstr ""
+
+#: inc/class-lets-review.php:240
+msgid "Font: Parragraphs"
+msgstr ""
+
+#: inc/class-lets-review.php:251
+msgid "Font: Character Sets"
+msgstr ""
+
+#: inc/class-lets-review.php:282
+msgid "Format"
+msgstr ""
+
+#: inc/class-lets-review.php:316
+msgid "Custom Icon Image"
+msgstr ""
+
+#: inc/class-lets-review.php:328
+msgid "Location"
+msgstr ""
+
+#: inc/class-lets-review.php:363
+msgid "Animation Effect"
+msgstr ""
+
+#: inc/class-lets-review.php:439
+msgid ""
+"Set the default settings you want reviews to have when adding a new review."
+msgstr ""
+
+#: inc/class-lets-review.php:549
+msgid "Inherit from Theme"
+msgstr ""
+
+#: inc/class-lets-review.php:571
+msgid ""
+"Add as many criterias as you like. These will appear in every new review. "
+"You will be able to remove or add more of them inside each post if required. "
+"You can drag & drop the items around here."
+msgstr ""
+
+#: inc/lets-review-widget.php:25
+msgid "Review widget desc"
+msgstr ""
+
+#: inc/lets-review-widget.php:27
+msgid "Let's Review Widget"
+msgstr ""
+
+#: inc/lets-review-widget.php:295
+msgid "Title:"
+msgstr ""
+
+#: inc/lets-review-widget.php:300
+msgid "Amount Reviews:"
+msgstr ""
+
+#: inc/lets-review-widget.php:305
+msgid "Category(s):"
+msgstr ""
+
+#: inc/lets-review-widget.php:308
+msgid "All Categories"
+msgstr ""
+
+#: inc/lets-review-widget.php:317
+msgid "Review Date:"
+msgstr ""
+
+#: inc/lets-review-widget.php:319
+msgid "All-time"
+msgstr ""
+
+#: inc/lets-review-widget.php:320
+msgid "Past 7 Days"
+msgstr ""
+
+#: inc/lets-review-widget.php:321
+msgid "Last Month"
+msgstr ""
+
+#: inc/lets-review-widget.php:326
+msgid "Order:"
+msgstr ""
+
+#: inc/lets-review-widget.php:328
+msgid "Top Scores"
+msgstr ""
+
+#: inc/lets-review-widget.php:329
+msgid "Lowest Scores"
+msgstr ""
+
+#: inc/lets-review-widget.php:330
+msgid "Newest Reviews"
+msgstr ""
+
+#: inc/lets-review-widget.php:335
+msgid "Design:"
+msgstr ""
+
+#: inc/lets-review-widget.php:342
+msgid "Score Type:"
+msgstr ""
+
+#: inc/lets-review-widget.php:344
+msgid "Editor Scores"
+msgstr ""
+
+#: inc/lets-review-widget.php:345
+msgid "Visitor Scores"
+msgstr ""
+
+#: inc/lets-review-widget.php:365
+msgid "Minimal"
+msgstr ""
+
+#: inc/lets-review-widget.php:367
+msgid "Simple"
+msgstr ""
+
+#: inc/lets-review-widget.php:368
+msgid "Simple + Stars"
+msgstr ""

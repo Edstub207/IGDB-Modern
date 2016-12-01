@@ -1,0 +1,33 @@
+/*------------------------------------------------------------------
+[14. Top half-width design]
+*/
+.cb-location-5 { width: 50%;    float: left;    margin-right: 30px; }
+.cb-location-5.cb-design-1 {
+
+	.cb-pros-cons-block { width: 100%; float: none; text-align: center;
+		> div {
+		    padding-right: 0;
+		}
+	}
+	.cb-score-box { float: none; margin: 20px auto 0; }
+	.cb-user-rating-block {  text-align: center;
+		.cb-criteria { position: relative; display: block;     }
+		.cb-overlay { float: none; }
+    }
+}
+
+.cb-location-5.cb-design-2 {
+	  .cb-score-box { float: none; margin: 0 auto 20px; }
+	  .cb-review-pad {     padding: 20px; }
+    .cb-review-conclusion { width: 100%; padding-right: 0; }
+    .cb-review-fi {   margin-right: 15px; }
+    .cb-pros-cons-block { text-align: center; }
+    
+}
+
+.cb-location-5.cb-design-2.cb-out-of-5 {
+	.cb-user-rating-block {  text-align: center;
+		.cb-criteria { position: relative; display: block;     }
+		.cb-overlay { float: none; }
+    }
+}
