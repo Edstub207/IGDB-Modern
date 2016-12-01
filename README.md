@@ -1,4 +1,4 @@
-# IGDB-Widget
+# IGDB-Widget Modern
 === Plugin Name ===
 Contributors: Gaming Masters
 Tags: gaming,releases
@@ -37,31 +37,9 @@ Yes, but you need to register on the IGDB.com website. Some sites may need to pa
 
 
 == Changelog ==
-= 1.1.2 =
-* Multiple Bug Fixes
-* Replaced image URL as requested on the IGDB API Page in a blog post
-
-= 1.0 =
-* Changed font size for game name
-* Changed plugin to display current days releases instead than current month
-* Removed the date field being display at the top of each game
-* General bug fixes
-* First full launch
-
-= 0.2 =
-* Removed date chart feature
-* General Bug Fixes
-
-= 0.1 =
-* First release
+= 2.0.1 =
+Major Redesign 
 
 == Upgrade Notice ==
-= 1.1.2 =
-Multiple Bug Fixes and a future proofing the image functionality
-= 1.0 =
-Fixed multiple issues and improved stability. First full launch.
-= 0.2 =
-This plugin update includes major fixes
-
-= 0.1 =
-This is the first release of the IGDB Widget
+= 2.0.1 = 
+Major Redesign, please upgrade to have a "Modern look"
