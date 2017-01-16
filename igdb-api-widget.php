@@ -5,7 +5,7 @@
  *  Description: Widget to display Game's name with release date from IGDB
  *  Author: Gaming Masters
  *  Author URI: www.gaming-masters.co.uk
- *  Version: 1.1.1
+ *  Version: 3.0.1
  *  License: GPLv2 or later
  */
 
