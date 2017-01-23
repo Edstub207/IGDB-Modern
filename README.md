@@ -1,4 +1,4 @@
-# IGDB-Widget Modern
+# IGDB-Widget
 === Plugin Name ===
 Contributors: Gaming Masters
 Tags: gaming,releases
@@ -37,9 +37,9 @@ Yes, but you need to register on the IGDB.com website. Some sites may need to pa
 
 
 == Changelog ==
-= 2.0.1 =
+= 3.0.1 =
 Major Redesign 
 
 == Upgrade Notice ==
-= 2.0.1 = 
+= 3.0.1 = 
 Major Redesign, please upgrade to have a "Modern look"
